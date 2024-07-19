@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CoreUI Free Bootstrap Admin Template [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?text=CoreUI%20-%20Free%20Bootstrap%204%20Admin%20Template%20&url=https://coreui.io&hashtags=bootstrap,admin,template,dashboard,panel,free,angular,react,vue)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
@@ -179,3 +180,7 @@ CoreUI is an MIT-licensed open source project and is completely free to use. How
 ## Copyright and license
 
 copyright 2024 creativeLabs Łukasz Holeczek. Code released under [the MIT license](https://github.com/coreui/coreui-free-bootstrap-admin-template/blob/main/LICENSE).
+=======
+# Charity-Web-Interface
+This repository contains the code for the NGO-Impact-Website, a dynamic platform designed to enhance the online presence of non-governmental organizations. Built using HTML, CSS, and JavaScript, this website aims to provide a user-friendly interface that supports the mission and activities of NGOs.
+>>>>>>> 544b9face3f110f7014d0a9b701a067eba5f994a
